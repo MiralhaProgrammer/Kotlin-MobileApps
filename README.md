@@ -1,2 +1,2 @@
 # Kotlin-MobileApps
-Kotlin Mobile Apps (Native/Android Studio)
+Kotlin Native Mobile apps developed on Android Studio

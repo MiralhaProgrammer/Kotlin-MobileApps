@@ -1,0 +1,1 @@
+The application shows the total expense of a trip, relating its distance, price per liter and autonomy.

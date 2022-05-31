@@ -1,0 +1,1 @@
+A simple activity with the use of Relative Layout.

@@ -13,6 +13,7 @@
     <string name="your_age">Quantos anos você tem?</string>
     <string name="validation_mandatory_age">Insira uma idade válida</string>
     <string name="select_phrase">Escolha um ícone e clique em nova frase :)</string>
+    <string name="oops">Selecione um ícone antes de clicar em uma nova frase!</string>
 
     <string name="validation_mandatory_name">Informe seu nome.</string>
 

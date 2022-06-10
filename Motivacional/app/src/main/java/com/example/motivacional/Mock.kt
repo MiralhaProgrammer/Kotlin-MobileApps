@@ -27,11 +27,11 @@ class Mock {
         var randomNumber = 0
         when(categoryId){
             1 -> {
-                randomNumber = (6..13).random()
+                randomNumber = (6..12).random()
             }
 
             2 -> {
-                randomNumber = (0..13).random()
+                randomNumber = (0..12).random()
             }
 
             3 -> {

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Constraint Layout Recipes</string>
+    <string name="recipe_name">Achocolatado</string>
+    <string name="recipe_amount_1">200 ml de leite</string>
+    <string name="recipe_amount_2">3 colheres de achocolatado em pó</string>
+    <string name="recipe_amount_3">1 colher de chocolate em pó</string>
+    <string name="time_description">3 minutos</string>
+    <string name="calories_description">250 calorias</string>
+    <string name="ingredients">Ingredientes</string>
+    <string name="long_text">Uma simples e perfeita mistura de leite e chocolate para ser feito em casa!</string>
+    <string name="rate_1">Você gostou da receita?</string>
+    <string name="rate_2">Clique para avaliar!</string>
+    <string name="like">Sim, gostei!</string>
+    <string name="dislike">Não gostei da receita!</string>
+    <string name="clear">Limpar</string>
+
+</resources>
